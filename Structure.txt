@@ -1,0 +1,8 @@
+Checked on Windows 10 Pro
+============================
+
+1. Install Git Bash
+2. Install Golang
+3. Change ENV variables like GOROOT, GOPATH to your project
+4. Create directure structure :
+  a. src b.pkg c.bin
