@@ -17,8 +17,14 @@ Checked on Windows 10 Pro
    
 3. Change ENV variables like GOROOT, GOPATH to your project
     reference :
+      a. Type : Edit Envirnoment variable in Windows Search button (next Start button)
+      b. Select advanced options
+      c. Select "Envirnoment Variables"
+      d. If already existing , edit varibles to reflect your directory
+      e. If GOROOT/GOPATH are missing, you can add
+      f. Press "Ok" to be effective, restart your shell to check updates
     
-4. Create directure structure :
+4. Create directure structure to  :
   a. src b.pkg c.bin
   
   eg., #mkdir src pkg bin
