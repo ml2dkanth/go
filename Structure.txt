@@ -4,7 +4,10 @@ Golang material for Reference:
 2. Youtube : https://www.youtube.com/watch?v=nCrOuyt3fGE&list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S
 3. Official URL : https://golang.org/
 4. ToddMcLeod GitHub https://github.com/GoesToEleven/
-5. 
+5. Go playground [online env]:
+   reference url: https://play.golang.org/
+6. Go Language spec:
+   reference url: https://golang.org/ref/spec
 
 Checked on Windows 10 Pro
 ============================
@@ -29,12 +32,9 @@ Checked on Windows 10 Pro
   
   eg., #mkdir src pkg bin
   
-5. Go playground [online env]:
-   reference url: https://play.golang.org/
-
-6. packages in golang:
+5. packages in golang:
   reference url: https://golang.org/pkg/
   
-7. Your first hello program:
+6. Your first hello program:
 Enter sample hello program with as "hello.go" using a editor
 #go run hello.go
