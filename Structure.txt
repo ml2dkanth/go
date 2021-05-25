@@ -1,4 +1,4 @@
-Golang material for Reference:
+Golang material directory:
 ===========================
 1. Books : https://play.golang.org/
 2. Youtube : https://www.youtube.com/watch?v=nCrOuyt3fGE&list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S
