@@ -30,3 +30,5 @@ Checked on Windows 10 Pro
   reference url: https://golang.org/pkg/
   
 7. Your first hello program:
+Enter sample hello program with as "hello.go" using a editor
+#go run hello.go
