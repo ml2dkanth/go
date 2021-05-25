@@ -1,8 +1,32 @@
+Golang material for Reference:
+===========================
+1. Books : https://play.golang.org/
+2. Youtube : https://www.youtube.com/watch?v=nCrOuyt3fGE&list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S
+3. Official URL : https://golang.org/
+4. ToddMcLeod GitHub https://github.com/GoesToEleven/
+5. 
+
 Checked on Windows 10 Pro
 ============================
 
 1. Install Git Bash
+   reference url: https://git-scm.com/downloads
+    
 2. Install Golang
+   reference url: https://golang.org/doc/install
+   
 3. Change ENV variables like GOROOT, GOPATH to your project
+    reference :
+    
 4. Create directure structure :
   a. src b.pkg c.bin
+  
+  eg., #mkdir src pkg bin
+  
+5. Go playground [online env]:
+   reference url: https://play.golang.org/
+
+6. packages in golang:
+  reference url: https://golang.org/pkg/
+  
+7. Your first hello program:
