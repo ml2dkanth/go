@@ -9,6 +9,9 @@ Golang material directory:
 6. Go Language spec:
    reference url: https://golang.org/ref/spec
 
+7. Go reference forum:
+https://forum.golangbridge.org/
+
 Checked on Windows 10 Pro
 ============================
 
