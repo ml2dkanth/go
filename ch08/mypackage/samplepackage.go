@@ -5,7 +5,7 @@ package mypackage
 import ("fmt")
 
 // Call custom function to print name of passed string
-func function(name string){
+func Function(name string){
 	fmt.Println("Hello ",name)
 }
 

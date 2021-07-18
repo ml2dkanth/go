@@ -5,7 +5,8 @@ import ("fmt"
 )
 
 func main(){
-	mypackage.function("Srikanth")
+	fmt.Println("Calling Package Function")
+	mypackage.Function("Srikanth")
 
 }
 

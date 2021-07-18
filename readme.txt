@@ -15,6 +15,11 @@ https://forum.golangbridge.org/
 8. Go Reference topic:
 https://github.com/ardanlabs/gotraining
 
+9. Source linsense under:
+All material is licensed under the Apache License Version 2.0, January 2004
+http://www.apache.org/licenses/LICENSE-2.0
+
+
 Checked on Windows 10 Pro
 ============================
 
