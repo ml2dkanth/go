@@ -1,0 +1,9 @@
+I was attending Udemy course learning for go, all the source material are samples told in the training.
+
+You can refer to source at github:
+https://github.com/GoesToEleven
+
+Licence:
+https://github.com/GoesToEleven/GolangTraining/blob/master/LICENSE.txt
+
+
